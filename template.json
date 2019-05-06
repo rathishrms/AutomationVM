@@ -13,7 +13,7 @@
         "LABVMVNETSubnet1Name": "LABVM",
         "LABVMVNETSubnet1Prefix": "192.168.0.0/24",
         "LABVMName": "LABVM",
-        "LABVMAdminUserName": "vdcadmin",
+        "LABVMAdminUserName": "vmadmin",
         "LABVMAdminPassword": "Password.1!!",
         "LABVMImagePublisher": "MicrosoftWindowsDesktop",
         "LABVMImageOffer": "Windows-10",
