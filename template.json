@@ -24,7 +24,7 @@
         "LABVMNicName": "[concat(variables('LABVMName'), '-NIC')]",
         "LABVM-PUBIPName": "[concat(variables('LABVMName'), '-PIP')]",
         "LABVMInstallHyperVScriptFolder": ".",
-        "LABVMInstallHyperVScriptFileName": "InstallLabVM.ps1",
+        "LABVMInstallHyperVScriptFileName": "VM.ps1",
         "LABVMInstallHyperVURL": "https://raw.githubusercontent.com/rathishrms/AutomationVM/master/VM.ps1"
     },
     "resources": [
