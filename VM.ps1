@@ -21,6 +21,7 @@ $Extensions = 'ms-vscode.azurecli',`
               'ms-vscode.azure-account',`
               'ms-python.python',`
               'ms-vscode.powershell',`
+              'ms-vsts.team',`
               'peterjausovec.vscode-docker'
 
 #Install Packages
