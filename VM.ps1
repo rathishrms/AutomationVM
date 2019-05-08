@@ -52,16 +52,18 @@ function Update-Environment-Path
 #
 
 #Visual Studio
-choco install visualstudio2019community --yes
-Update-Environment-Path
+#choco install visualstudio2019community --yes
+
+#Update-Environment-Path
 
 #Eclipse
-choco install eclipse --yes
-Update-Environment-Path
+
+#choco install eclipse --yes
+#Update-Environment-Path
 
 #IntelliJ
-choco install intellijidea --yes
-Update-Environment-Path
+#choco install intellijidea --yes
+#Update-Environment-Path
 
 #OpenSSH
 choco install openssh --yes
@@ -72,19 +74,19 @@ choco install putty --yes
 Update-Environment-Path
 
 #JavaRunTime
-choco install javaruntime --yes
-Update-Environment-Path
+#choco install javaruntime --yes
+#Update-Environment-Path
 
 #Tomcat
-choco install tomcat --pre --yes
-Update-Environment-Path
+#choco install tomcat --pre --yes
+#Update-Environment-Path
 
 #Maven
-choco install maven --yes
-Update-Environment-Path
+#choco install maven --yes
+#Update-Environment-Path
 
 # File Management
-choco install 7zip --yes
+#choco install 7zip --yes
 
 # Misc
 choco install sysinternals --yes
